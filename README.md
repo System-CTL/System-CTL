@@ -1,4 +1,4 @@
-- 👋 Hi, I’m blue teamer , Abrar
+- 👋 Hi, I’m blue teamer , Pious
 - 👀 I’m interested in threat intelligence, blue teaming , red teaming , forensics 
 - 🌱 I’m currently learning forensics
 - 💞️ I’m looking to collaborate on linkedin
