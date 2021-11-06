@@ -1,4 +1,4 @@
-- 👋 Hi, Currently a blue teamer ,
+- 👋 A.O.A-Hi, Currently a blue teamer ,
 - 👀 Interested in threat intelligence, blue teaming , red teaming , forensics. 
 - 🌱 In process of learning forensics.
 - 💞️ I’m looking to collaborate on linkedin.
