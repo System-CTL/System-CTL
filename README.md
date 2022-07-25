@@ -7,13 +7,9 @@
 
 
     
-![alt text](https://c.tenor.com/R4riaEBdEOkAAAAd/hackerman-loweffortpunks.gif "Logo Title Text 1" )
-
-
-![alt text](https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif width="88" height="78" "Logo Title Text 1" )
-
-
-<img src="https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif" width="250" height="250"/>
+![alt text]<img src="https://c.tenor.com/R4riaEBdEOkAAAAd/hackerman-loweffortpunks.gif" width="250" height="250"/>
+![alt text]<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4u624upzydcadel86tm7.gif" width="250" height="250"/>
+![alt text]<img src="https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif" width="250" height="250"/>
 
 
 
