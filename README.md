@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on linkedin.
 - 📫 you can contact me on ak8787@outlook.com.
 
-https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif 
+![alt text](https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif "Logo Title Text 1")
+
+https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif
+
 
 
 <!---
