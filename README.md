@@ -6,9 +6,6 @@
 
 
 
-<img class="my-image" id="pic128540" width="500" height="500" 
-    src="http://via.placeholder.com/88x78" 
-    alt="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
     
 ![alt text](https://c.tenor.com/R4riaEBdEOkAAAAd/hackerman-loweffortpunks.gif "Logo Title Text 1" width="88" height="78" )
 
@@ -16,6 +13,13 @@
 ![alt text](https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif width="88" height="78" "Logo Title Text 1" )
 
 https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif
+
+
+img.animated-gif{
+  width: 120px;
+  height: auto;
+}
+<img class="animated-gif" src="https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif">
 
 
 <!---
