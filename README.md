@@ -12,10 +12,10 @@
 
 ![alt text](https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif width="88" height="78" "Logo Title Text 1" )
 
-https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif
+
+<img src="https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif" width="250" height="250"/>
 
 
-<img class="animated-gif" src="https://c.tenor.com/cM-JhYmsdCoAAAAC/hacking-windows.gif">
 
 
 <!---
