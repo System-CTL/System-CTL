@@ -1,6 +1,6 @@
-- 👋 A.O.A-Hi, Currently a blue teamer ,
+- 👋 A.O.A-Hi, Threat Detection and Incident Responder,
 - 👀 Interested in threat intelligence, blue teaming , red teaming , forensics. 
-- 🌱 In process of learning forensics.
+- 🌱 In process of learning forensics, red teaming.
 - 💞️ I’m looking to collaborate on linkedin.
 - 📫 you can contact me on https://www.linkedin.com/in/ab-hussain.
 
